@@ -9,4 +9,8 @@ $ python3 aimenext1.py
 
 
 ## Assignment 2: Write small app.
-React native.
+#### Framework of choice: React native
+
+List screen             |  Detail screen
+:-------------------------:|:-------------------------:
+![](https://github.com/namchuai/aimenext-assignment/blob/master/list.png)  |  ![](https://github.com/namchuai/aimenext-assignment/blob/master/detail.png)
