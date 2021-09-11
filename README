@@ -1,4 +1,12 @@
-AIMENEXT Test assignment
+# AIMENEXT ASSIGNMENT
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Assignment 1: Sort an array.
+[Sort array](https://github.com/namchuai/aimenext-assignment/blob/master/aimenext1.py) - Python
 
-1. Write algorithm to sort a list.
-2. Create a small app.
+```sh
+$ python3 aimenext1.py
+```
+
+
+## Assignment 2: Write small app.
+React native.
